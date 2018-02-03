@@ -12,5 +12,6 @@
 $items = [
     [ 'id' => 1, 'name' => 'Lelaki',    'code_1' => 'L' ],
     [ 'id' => 2, 'name' => 'Perempuan', 'code_1' => 'P' ],
-    [ 'id' => 3, 'name' => 'Ragu',      'code_1' => 'R' ] 
+    [ 'id' => 3, 'name' => 'Ragu',      'code_1' => 'R' ],
+    [ 'id' => 4, 'name' => 'Tidak Diketahui', 'code_1' => ] 
 ];
